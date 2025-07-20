@@ -1,0 +1,74 @@
+[
+ {
+   "flask==2.2.5": "psutil==5.9.5",
+   "#": "#",
+   "If": "For",
+   "you're": "monitoring",
+   "using": "system",
+   "Flask": "resources",
+   "for": "(optional)",
+   "the": "",
+   "GUI": "",
+   "FIELD10": ""
+ },
+ {
+   "flask==2.2.5": "scapy==2.5.0",
+   "#": "#",
+   "If": "For",
+   "you're": "packet",
+   "using": "sniffing",
+   "Flask": "and",
+   "for": "crafting",
+   "the": "",
+   "GUI": "",
+   "FIELD10": ""
+ },
+ {
+   "flask==2.2.5": "pyshark==0.6.4",
+   "#": "#",
+   "If": "If",
+   "you're": "you're",
+   "using": "using",
+   "Flask": "Wireshark-like",
+   "for": "capture",
+   "the": "features",
+   "GUI": "",
+   "FIELD10": ""
+ },
+ {
+   "flask==2.2.5": "numpy==1.24.3",
+   "#": "#",
+   "If": "For",
+   "you're": "handling",
+   "using": "any",
+   "Flask": "data",
+   "for": "arrays",
+   "the": "or",
+   "GUI": "log",
+   "FIELD10": "analytics"
+ },
+ {
+   "flask==2.2.5": "matplotlib==3.7.1",
+   "#": "#",
+   "If": "For",
+   "you're": "optional",
+   "using": "data",
+   "Flask": "visualizations",
+   "for": "(charts,",
+   "the": "graphs)",
+   "GUI": "",
+   "FIELD10": ""
+ },
+ {
+   "flask==2.2.5": "colorama==0.4.6",
+   "#": "#",
+   "If": "For",
+   "you're": "colored",
+   "using": "console",
+   "Flask": "logs",
+   "for": "(optional,",
+   "the": "improves",
+   "GUI": "readability)",
+   "FIELD10": ""
+ }
+]
