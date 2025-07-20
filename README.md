@@ -13,7 +13,6 @@ A Python-based honeypot project designed to detect, log, and analyze unauthorize
 - Python
 - Tkinter / Flask
 - Tcpdump, Wireshark
-- Raspberry Pi (optional)
 - Log Management Tools
 
-## 📂 Folder Structure
+
